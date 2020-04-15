@@ -15,6 +15,9 @@ h1{
 	text-align: center;
 	width: 100%;
 }
+h1:hover{
+	color: pink;
+}
 h3{
 	font:900 1em 'Raleway',sans-serif;
 	letter-spacing: .01em;
